@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: nginxdemos/hello
+        image: shailesh49/netflix
         ports:
         - containerPort: 80
 
